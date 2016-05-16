@@ -1,4 +1,8 @@
-# hello-world
-na ez a helóvörd
+# Simple Hello World Node.js sample for Google App Engine
 
-beleírom amit akarok
+This sample demonstrates a tiny Hello World Node.js app for [Google App Engine Managed VMs](https://cloud.google.com/appengine).
+
+## Running locally
+
+Refer to the [appengine/README.md](../README.md) file for instructions on
+running and deploying.
